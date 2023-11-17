@@ -5,6 +5,7 @@ Step 1) Load the cheat driver
 Step 2) run the cheat
 
 Use arrow keys and enter to navigate through the menu
+F8 and F9 to open/close the menu
 
 (If the game updates the cheat will probably not work untill i update it)
 
