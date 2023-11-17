@@ -7,8 +7,8 @@ required actions :
 
 start C:\..\CS2-ESP-Release-Files\OnlyForWindows11\dsefix.exe
 timeout /t 2
-sc create tutDriverr binpath=C:\..\CS2-ESP-Release-Files\OnlyForWindows11\YeeterDriver.sys type=kernel
-sc start tutDriverr
+sc create YDriver binpath=C:\..\CS2-ESP-Release-Files\OnlyForWindows11\YeeterDriver.sys type=kernel
+sc start YDriver
 timeout /t 5
 start C:\..\CS2-ESP-Release-Files\OnlyForWindows11\dsefix.exe -e
 timeout /t 2
