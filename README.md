@@ -1,4 +1,4 @@
-# CS2-ESP-Release-Files [Currently outdated]
+# CS2-ESP-Release-Files [Expirimental Aimbot+Triggerbot Update]
 Simple menu by kurios patatakis
 
 Step 1) Load the cheat driver
