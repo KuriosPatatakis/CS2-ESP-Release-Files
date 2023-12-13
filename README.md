@@ -1,4 +1,4 @@
-# CS2-ESP-Release-Files [Experimental Aimbot+Triggerbot Update]
+# CS2-ESP-Release-Files [Do not play cs2 until the xss exploit is fixed]
 Simple menu by kurios patatakis
 
 Step 1) Load the cheat driver
