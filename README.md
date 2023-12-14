@@ -14,9 +14,8 @@ BE SURE TO RESTART YOUR SYSTEM BEFORE AND AFTER THE USE OF THE DRIVER TO AVOID P
 I think that 𝘺𝘦𝘦𝘵 is a funny word ok?
 
 
-![1](https://github.com/KuriosPatatakis/CS2-ESP-Release-Files/assets/148652818/9e146082-c1d2-4df3-b2e4-1038588aa229)
-![2](https://github.com/KuriosPatatakis/CS2-ESP-Release-Files/assets/148652818/9a0e5fb2-5aed-4018-8ba4-64dcffd38184)
-![3](https://github.com/KuriosPatatakis/CS2-ESP-Release-Files/assets/148652818/afa1512a-3879-4519-a163-2f6919610165)
-![4](https://github.com/KuriosPatatakis/CS2-ESP-Release-Files/assets/148652818/adfe7448-d5c9-4a83-b76e-c6948b93a146)
-![5](https://github.com/KuriosPatatakis/CS2-ESP-Release-Files/assets/148652818/23feb4de-2174-44e5-a06e-499712e8f946)
+![Capture](https://github.com/KuriosPatatakis/CS2-ESP-Release-Files/assets/148652818/aff682c5-17b5-4491-86db-ef02557c2a5e)
+![Capture1](https://github.com/KuriosPatatakis/CS2-ESP-Release-Files/assets/148652818/5c0b3884-dc36-4b52-879d-b70118d15825)
+![Capture2](https://github.com/KuriosPatatakis/CS2-ESP-Release-Files/assets/148652818/ea69e289-240a-4ff1-a73f-564bdd66abdd)
+![Capture3](https://github.com/KuriosPatatakis/CS2-ESP-Release-Files/assets/148652818/e2345355-f937-4714-aaa7-d3dae0935702)
 
