@@ -1,4 +1,4 @@
-# CS2-ESP-Release-Files [Health option update]
+# CS2-ESP-Release-Files [Outdated]
 Simple menu by kurios patatakis
 
 Step 1) Load the cheat driver
