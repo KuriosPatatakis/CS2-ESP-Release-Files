@@ -11,8 +11,6 @@ F8 and F9 to open/close the menu
 DO NOT RUN GAMES WITH ANTICHEATS LIKE BATTLEYE OR EAC WHILE THE DRIVER IS RUNNING.
 BE SURE TO RESTART YOUR SYSTEM BEFORE AND AFTER THE USE OF THE DRIVER TO AVOID POTENTIAL BANS.
 
-I think that 𝘺𝘦𝘦𝘵 is a funny word ok?
-
 
 ![Capture](https://github.com/KuriosPatatakis/CS2-ESP-Release-Files/assets/148652818/aff682c5-17b5-4491-86db-ef02557c2a5e)
 ![Capture1](https://github.com/KuriosPatatakis/CS2-ESP-Release-Files/assets/148652818/5c0b3884-dc36-4b52-879d-b70118d15825)
