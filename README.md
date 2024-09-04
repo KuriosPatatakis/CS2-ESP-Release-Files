@@ -1,4 +1,7 @@
 # CS2-ESP-Release-Files
+
+[OUTDATED]
+
 Simple menu by themis aka kurios patatakis
 
 Step 1) Load the cheat driver
